@@ -92,9 +92,7 @@ export default function Page() {
 
       <section data-reveal data-delay="0" className="px-4 md:px-0 max-w-4xl mx-auto reveal">
         <p className="text-gray-700 text-lg md:text-xl leading-relaxed">
-          J.M.W. Turner (1775–1851) is celebrated as one of Britain’s greatest painters,
-          a pioneer of light, atmosphere, and Romantic imagination. His works captured
-          both the beauty and terror of nature, redefining landscape art.
+          TESTING
         </p>
       </section>
 
